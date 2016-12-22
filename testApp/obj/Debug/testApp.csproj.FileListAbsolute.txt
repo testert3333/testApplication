@@ -1,0 +1,1 @@
+D:\GitHub\testApp\testApp\bin\Debug\testApp.exe.config
